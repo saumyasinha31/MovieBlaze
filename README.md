@@ -14,6 +14,7 @@ MovieBlaze is a simple movie browsing app built with Flutter. It allows users to
 ## Screenshots
 
 <p align="center">
+  
 ![Screenshot from 2024-11-12 01-59-50](https://github.com/user-attachments/assets/e90e29e8-dc05-4d5f-b8b9-ae4ec312de10)
 
 
