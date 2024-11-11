@@ -34,14 +34,14 @@ MovieBlaze is a simple movie browsing app built with Flutter. It allows users to
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/MovieBlaze.git
+   git clone https://github.com/saumyasinha31/MovieBlaze.git
    cd MovieBlaze
    ```
 
 2. **Install dependencies**:
 
    ```bash
-   flutter pub get
+   flutter pub get 
    ```
 
 3. **Run the app**:
@@ -93,10 +93,6 @@ MovieBlaze is a simple movie browsing app built with Flutter. It allows users to
 - **Favorites**: Allow users to save favorite movies.
 - **Enhanced Search**: Implement filters for genre, rating, and release date.
 
-## License
 
-This project is licensed under the MIT License.
-
----
 
 Enjoy browsing movies with **MovieBlaze**! 🚀
